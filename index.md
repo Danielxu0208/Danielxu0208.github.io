@@ -4,19 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) Before that, I received Bachelor of Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/)
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multi-Modal Learning** Multi-Modal LLM, RAG
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Feb. 2025]** Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
 {% include_relative _includes/publications.md %}
 
