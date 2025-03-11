@@ -1,7 +1,7 @@
 main:
 
   - title: "Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents" 
-    authors: Jun Chen<sup>*</sup>, <strong>Dannong Xu<sup>*</sup></strong>, Junjie Fei<sup>*</sup>, Chun-Mei Feng, Mohamed Elhoseiny
+    authors: Jun Chen*, <strong>Dannong Xu*</strong>, Junjie Fei*, Chun-Mei Feng, Mohamed Elhoseiny
     conference_short: CVPR
     conference: <strong>CVPR2025</strong>
     pdf: https://arxiv.org/pdf/2411.16740
