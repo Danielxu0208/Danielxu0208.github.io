@@ -8,7 +8,7 @@ I am currently a research assistant at [King Abdullah University of Science and 
 
 ## Research Interests
 
-- **Multi-Modal Learning** Multi-Modal LLM, RAG
+- **Multi-Modal Learning** 
 
 ## News
 
