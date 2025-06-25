@@ -2,8 +2,8 @@ main:
 
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation" 
     authors: Zhongyu Yang*, Jun Chen*, <strong>Dannong Xu*</strong>, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
-    conference_short: arXiv
-    conference: <strong>Preprint</strong>, <strong>Selected as Huggingface Daily Paper (by AK)</strong>
+    conference_short: ICCV
+    conference: <strong>ICCV 2025</strong>, <strong>Selected as Huggingface Daily Paper (by AK)</strong>
     pdf: https://arxiv.org/pdf/2503.19065
     code: https://wikiautogen.github.io/
     image: ./assets/img/wikiauto.png
