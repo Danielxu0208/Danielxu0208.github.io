@@ -11,6 +11,7 @@ I am currently a research assistant at [King Abdullah University of Science and 
 - **Multi-Modal Learning** 
 
 ## News
+- **[June. 2025]** Our paper 'WikiAutoGen' is accepted to ICCV 2025.
 
 - **[Feb. 2025]** Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
