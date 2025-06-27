@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) Before that, I received Bachelor of Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/)
+I am currently a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/). Before that, I received Bachelor of Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Stefan Williams](https://scholar.google.com.au/citations?user=vxN3VO0AAAAJ&hl=zh-CN).
 
 ## Research Interests
 
