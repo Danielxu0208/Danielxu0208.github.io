@@ -8,7 +8,7 @@ I am currently a research assistant at [King Abdullah University of Science and 
 
 ## Research Interests
 
-- **Multi-Modal Learning** 
+- **Multi-Modal Learning**, **Agents**, **Medical AI**
 
 ## News
 - **[Jun. 2025]** Our paper 'WikiAutoGen' is accepted to ICCV 2025.
