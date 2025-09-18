@@ -20,6 +20,7 @@ I am currently an AI Research Intern in Shanda AI Research Centre. Before that, 
 
 {% include_relative _includes/experience.md %}
 
+<div style="height: 48px;"></div>
 
 {% include_relative _includes/publications.md %}
 
