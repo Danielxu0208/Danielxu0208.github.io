@@ -17,6 +17,8 @@ I am currently an AI Research Intern in Shanda AI Research Centre. Before that, 
 
 - **[Feb. 2025]** Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
+{% include_relative _includes/experience.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
