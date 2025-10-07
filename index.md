@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a incoming PhD student at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). I am currently an AI Research Intern in Shanda AI Research Centre. 
+I am an incoming PhD student at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). I am currently an AI Research Intern in Shanda AI Research Centre. 
 
 Before that, I was a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en). I received Bachelor of Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Stefan Williams](https://scholar.google.com.au/citations?user=vxN3VO0AAAAJ&hl=zh-CN).
 
