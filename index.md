@@ -15,9 +15,9 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 ## News
 - **[Sep. 2025]** Start Internship in Shanda AI Research Centre.
 
-- **[Jun. 2025]** Our paper 'WikiAutoGen' is accepted to ICCV 2025.
+- **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to ICCV 2025.
 
-- **[Feb. 2025]** Our paper 'Document Haystacks' is accepted to CVPR 2025.
+- **[Feb. 2025]** 🎉 Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
 
 {% include_relative _includes/experience.md %}
