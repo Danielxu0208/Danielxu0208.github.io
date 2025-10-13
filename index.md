@@ -10,7 +10,7 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 
 ## Research Interests
 
-- **Multi-Modal Learning**, **Agents**, **Medical AI**
+- **Multi-Modal Learning**, **Agents**, **Computer Vision**
 
 ## News
 - **[Sep. 2025]** Start Internship in Shanda AI Research Centre.
