@@ -17,6 +17,8 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 
 - **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to ICCV 2025.
 
+- **[Mar. 2025]** 🏆 Our paper 'WikiAutoGen' is featured in Hugging Face Daily Papers.
+
 - **[Feb. 2025]** 🎉 Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
 
