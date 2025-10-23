@@ -13,6 +13,8 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 - **Multi-Modal Learning**, **Agents**, **Computer Vision**
 
 ## News
+- **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to TMLR.
+
 - **[Sep. 2025]** Start Internship in Shanda AI Research Centre.
 
 - **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to ICCV 2025.
