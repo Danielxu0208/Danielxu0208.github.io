@@ -23,7 +23,7 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 
 - **[Feb. 2025]** 🎉 Our paper 'Document Haystacks' is accepted to CVPR 2025.
 
-- **[Sep. 2025]** Start Internship in Mohamed Elhoseiny's Group.
+- **[Sep. 2024]** Start Internship in Mohamed Elhoseiny's Group.
 
 
 
