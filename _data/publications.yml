@@ -23,7 +23,7 @@ main:
   - title: "Document Haystacks: Vision-Language Reasoning Over Piles of 1000+ Documents" 
     authors: Jun Chen*, <strong>Dannong Xu*</strong>, Junjie Fei*, Chun-Mei Feng, Mohamed Elhoseiny
     conference_short: CVPR
-    conference: <strong>CVPR 2025</strong>
+    conference: <strong><span style="color:#e60000">CVPR 2025</span></strong>
     pdf: https://arxiv.org/pdf/2411.16740
     code: https://github.com/Vision-CAIR/dochaystacks
     image: ./assets/img/dochay.png
