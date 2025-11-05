@@ -3,7 +3,7 @@ main:
 
   - title: "Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models" 
     authors: Zhongyu Yang*, <strong>Dannong Xu*</strong>, Wei Pang, Yingfang Yuan
-    conference_short: TMLR
+    conference_short: Transactions on Machine Learning Research (TMLR)
     conference: <strong>TMLR</strong>
     pdf: https://arxiv.org/pdf/2503.19065
     code: https://01yzzyu.github.io/script.github.io/
