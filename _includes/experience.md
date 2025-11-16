@@ -4,7 +4,7 @@
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
     <img src="../assets/img/shanda.jpeg" alt="Meta" width="20" height="20" style="vertical-align: middle; margin-bottom: 4px">
-     Research Intern at <strong>Shanda AI Research Centre</strong>
+     Research Intern at <strong>Shanda AI Research Centre</strong> & <strong>EverMind</strong>
   </span>
   <span>Sep 2025 - Present</span>
 </li>
