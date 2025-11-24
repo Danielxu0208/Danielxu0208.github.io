@@ -1,15 +1,6 @@
 main:
 
 
-  - title: "EverMemOS: Let every interaction be driven by understanding" 
-    authors: EverMind Team
-    conference_short:
-    conference: <strong><span style="color:#e60000">GitHub Stars 600+ </span></strong>
-    code: https://github.com/EverMind-AI/EverMemOS
-    机器之心: https://mp.weixin.qq.com/s/MYc9ostRD51tRe9priL2Aw
-    image: ./assets/img/evermemos.png
-
-
   - title: "Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models" 
     authors: Zhongyu Yang*, <strong>Dannong Xu*</strong>, Wei Pang, Yingfang Yuan
     conference_short: TMLR
