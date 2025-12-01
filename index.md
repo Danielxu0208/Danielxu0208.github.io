@@ -18,7 +18,7 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 
 ## 📢 News
 
-- **[Dec. 2025]** 🎉 Our project 'EverMemOS' has received GitHub 1000+ stars.
+- **[Dec. 2025]** 🏆 Our project 'EverMemOS' has received GitHub 1000+ stars.
   
 - **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to TMLR 2025.
 
