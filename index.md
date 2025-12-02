@@ -18,17 +18,17 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 
 ## 📢 News
 
-- **[Dec. 2025]** 🏆 Our project 'EverMemOS' has received GitHub 1000+ stars.
+- **[Dec. 2025]** 🏆 Our project 'EverMemOS' has received <strong>GitHub 1000+ stars<strong>.
   
-- **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to TMLR 2025.
+- **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to <strong>TMLR 2025<strong>.
 
-- **[Sep. 2025]** Start Internship in Shanda AI Research Centre & EverMind.
+- **[Sep. 2025]** Start Internship in <strong>Shanda AI Research Centre<strong> & <strong>EverMind<strong>.
 
-- **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to ICCV 2025.
+- **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to <strong>ICCV 2025<strong>.
 
-- **[Mar. 2025]** 🏆 Our paper 'WikiAutoGen' is featured in Hugging Face Daily Papers.
+- **[Mar. 2025]** 🏆 Our paper 'WikiAutoGen' is featured in <strong>Hugging Face Daily Papers<strong>.
 
-- **[Feb. 2025]** 🎉 Our paper 'Document Haystacks' is accepted to CVPR 2025.
+- **[Feb. 2025]** 🎉 Our paper 'Document Haystacks' is accepted to <strong>CVPR 2025<strong>.
 
 - **[Sep. 2024]** Start Internship in Mohamed Elhoseiny's Group.
 
