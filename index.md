@@ -22,7 +22,7 @@ Before that, I was a research assistant at [King Abdullah University of Science 
   
 - **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to <strong> TMLR 2025 <strong>.
 
-- **[Sep. 2025]** Start Internship in <strong> Shanda AI Research Centr e<strong> & <strong> EverMind <strong>.
+- **[Sep. 2025]** Start Internship in <strong> Shanda AI Research Centre <strong> & <strong> EverMind <strong>.
 
 - **[Jun. 2025]** 🎉 Our paper 'WikiAutoGen' is accepted to <strong> ICCV 2025 <strong>.
 
