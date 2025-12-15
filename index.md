@@ -17,8 +17,6 @@ Before that, I was a research assistant at [King Abdullah University of Science 
 - **Multi-Modal Learning**, **Agents**, **Computer Vision**
 
 ## 📢 News
-
-- **[Dec. 2025]** 🏆 Our project 'EverMemOS' has received <strong> GitHub 1000+ stars <strong>.
   
 - **[Oct. 2025]** 🎉 Our paper 'Script' is accepted to <strong> TMLR 2025 <strong>.
 
