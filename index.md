@@ -9,7 +9,8 @@ I am currently a PhD student at [INSAIT](https://insait.ai/), under the supervis
 Before that, I was a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Dr. Jun Chen](https://scholar.google.com/citations?user=9G2OQmkAAAAJ&hl=en&oi=ao) and [Dr. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en). I received Bachelor of Mechanical Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Stefan Williams](https://scholar.google.com.au/citations?user=vxN3VO0AAAAJ&hl=zh-CN).
 
 ## 🎓 Educational Background
-- **[2020 - 2025]** Bachelor of Mechanical Engineering (Honours), University of Sydney
+- **[2026 - Present]** PhD in Computer Science, [INSAIT](https://insait.ai/)
+- **[2020 - 2025]** Bachelor of Mechanical Engineering (Honours), [University of Sydney](https://www.sydney.edu.au/)
 
 
 ## 🔍 Research Interests
