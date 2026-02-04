@@ -4,7 +4,7 @@ layout: homepage
 
 ## 🧑‍💻 About Me
 
-I am currently a PhD student at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). I am currently an AI Research Intern in Shanda AI Research Centre and [EverMind](https://everm.ai/). 
+I am currently a PhD student at [INSAIT](https://insait.ai/), under the supervision of [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en) and [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en). Previously, I was an AI Research Intern in Shanda AI Research Centre and [EverMind](https://everm.ai/). 
 
 Before that, I was a research assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/), supervised by [Dr. Jun Chen](https://scholar.google.com/citations?user=9G2OQmkAAAAJ&hl=en&oi=ao) and [Dr. Mohamed Elhoseiny](https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en). I received Bachelor of Mechanical Engineering Honours from the [University of Sydney](https://www.sydney.edu.au/), supervised by [Prof. Stefan Williams](https://scholar.google.com.au/citations?user=vxN3VO0AAAAJ&hl=zh-CN).
 
