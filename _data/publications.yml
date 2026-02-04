@@ -1,7 +1,14 @@
 main:
 
+  - title: "EverMemBench: Benchmarking Long-Term Interactive Memory in Large Language Models" 
+    authors: EverMind Team (including <strong>Dannong Xu</strong>)
+    conference_short: arXiv
+    pdf: https://www.arxiv.org/abs/2602.01313
+    code: https://github.com/EverMind-AI/EverMemBench
+    image: ./assets/img/evermemos.png
+
   - title: "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning" 
-    authors: Chuanrui Hu, Xingze Gao, Zuyi Zhou, <strong>Dannong Xu</strong>, Yi Bai, Xintong Li, Hui Zhang, Tong Li, Chong Zhang, Lidong Bing, Yafeng Deng
+    authors: EverMind Team (including <strong>Dannong Xu</strong>)
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2601.02163
     code: https://github.com/EverMind-AI/EverMemOS
