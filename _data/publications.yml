@@ -5,7 +5,7 @@ main:
     conference_short: arXiv
     pdf: https://www.arxiv.org/abs/2602.01313
     code: https://github.com/EverMind-AI/EverMemBench
-    image: ./assets/img/evermemos.png
+    image: ./assets/img/evermembench.png
 
   - title: "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning" 
     authors: EverMind Team (including <strong>Dannong Xu</strong>)
