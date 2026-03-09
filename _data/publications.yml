@@ -6,7 +6,7 @@ main:
     conference: <strong><span style="color:#e60000">ICCV 2025</span></strong>, <strong>Selected as Huggingface Daily Paper (by AK)</strong>
     pdf: https://arxiv.org/abs/2603.05697
     code: https://danielxu0208.github.io/MultiHaystack.github.io/
-    image: ./assets/img/wikiauto.png
+    image: ./assets/img/compare_haystack.png
 
   - title: "EverMemBench: Benchmarking Long-Term Interactive Memory in Large Language Models" 
     authors: EverMind Team (including <strong>Dannong Xu</strong>)
