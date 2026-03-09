@@ -1,5 +1,13 @@
 main:
 
+  - title: "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents" 
+    authors: <strong>Dannong Xu*</strong> Zhongyu Yang*, Jun Chen, Yingfang Yuan, Ming Hu, Lei Sun, Luc Van Gool, Danda Pani Paudel, Chun-Mei Feng
+    conference_short: arXiv
+    conference: <strong><span style="color:#e60000">ICCV 2025</span></strong>, <strong>Selected as Huggingface Daily Paper (by AK)</strong>
+    pdf: https://arxiv.org/abs/2603.05697
+    code: https://danielxu0208.github.io/MultiHaystack.github.io/
+    image: ./assets/img/wikiauto.png
+
   - title: "EverMemBench: Benchmarking Long-Term Interactive Memory in Large Language Models" 
     authors: EverMind Team (including <strong>Dannong Xu</strong>)
     conference_short: arXiv
